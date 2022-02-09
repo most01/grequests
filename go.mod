@@ -1,4 +1,4 @@
-module github.com/most01/grequests
+module github.com/levigross/grequests
 
 require (
 	github.com/google/go-querystring v1.0.0
